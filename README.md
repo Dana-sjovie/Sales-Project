@@ -1,1 +1,1 @@
-# Takealot Project(SQL + BI Tool
+# Takealot Project(SQL + BI Tool)
